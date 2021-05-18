@@ -1,0 +1,1 @@
+﻿Select COUNT(*) From Products where ProductName like '%ab%'
